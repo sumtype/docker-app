@@ -1,0 +1,4 @@
+notifications:
+  build: ./notifications-service
+  ports:
+    - "4000:80"
